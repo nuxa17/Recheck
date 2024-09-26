@@ -1,0 +1,6 @@
+dat
+isos
+*.lib
+*.dll
+*.exe
+.vscode
